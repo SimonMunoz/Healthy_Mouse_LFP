@@ -1,0 +1,9 @@
+# Ignore the large dataframe file
+/dataframe_lfp.pkl
+# Ignore temporary Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.tmp
+*.log
